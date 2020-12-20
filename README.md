@@ -23,7 +23,7 @@ This application is a workout tracker.  This repository was provided with the fr
 enter npm i into the terminal.  To fill mongodb enter npm run seed.
 
 # Usage
-To run the application locally enter npm i to install packages.  Then enter npm run seed to fill the database.  Then enter node server.  To access the app go to localhost:3000.  To access the hosted application, go to placeholder.
+To run the application locally enter npm i to install packages.  Then enter npm run seed to fill the database.  Then enter node server.  To access the app go to localhost:3000.  To access the hosted application, go to https://workout-tracker-app6105.herokuapp.com.
 
 # License
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
